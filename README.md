@@ -55,4 +55,4 @@ The model displays predictions along with their confidence levels during the pre
 - Aryan Singh
 - Undergraduate in Computer Science and Engineering, IIITBH
 
-For any inquiries or feedback, please contact Abhishek Singh at [aryaning19@gmail.com](mailto:aryaning19@gmail.com).
+For any inquiries or feedback, please contact Aryan Singh at [aryaning19@gmail.com](mailto:aryaning19@gmail.com).
